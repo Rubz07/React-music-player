@@ -10,7 +10,7 @@ const Player=()=>{
       <p>End</p>
   </div>
   <div className="play-control">
-  <FontAwesomeIcon className="skip-forward" size="2x" icon={faAngleLeft}/>
+<FontAwesomeIcon className="skip-forward" size="2x" icon={faAngleLeft}/>
 <FontAwesomeIcon className="play" size="2x" icon={faPlay}/>
 <FontAwesomeIcon className="skip-backword" size="2x" icon={faAngleRight}/>
 </div>  
